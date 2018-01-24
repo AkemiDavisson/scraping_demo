@@ -1,0 +1,2020 @@
+{
+	"properties": [
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Vintage Airstream in East Austin, T - Other - Austin",
+			"property_id": 949922,
+			"rank": 1,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Tiny House: Heart of the East Side - Guesthouse - Austin",
+			"property_id": 4974255,
+			"rank": 2,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "The Hideaway - Travis Heights SOCO - House - Austin",
+			"property_id": 5094445,
+			"rank": 3,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Garden Cottage in East Austin - Other - Austin",
+			"property_id": 2528473,
+			"rank": 4,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Backyard Cottage in Central Austin - Apartment - Austin",
+			"property_id": 1021139,
+			"rank": 5,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Eastside Cabana - Near UT,Downtown - House - Austin",
+			"property_id": 349447,
+			"rank": 6,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Modern Guesthouse Near Zilker - Guesthouse - Austin",
+			"property_id": 3661871,
+			"rank": 7,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Zen private studio in the heart of South Austin - Other - Austin",
+			"property_id": 16157135,
+			"rank": 8,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Zilker Park, Fun, Funky, Colorful, Peaceful Haven - Guesthouse - Austin",
+			"property_id": 57187,
+			"rank": 9,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Zilker Park Oasis, Secluded Paradise - Minutes from Downtown Austin - - House - Austin",
+			"property_id": 21817593,
+			"rank": 10,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Perfect SXSW HQ - Stay in Luxury - 5 Bedrooms, 3.5 Baths - SLEEPS 17! - House - Austin",
+			"property_id": 21816324,
+			"rank": 11,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "BEAUTIFUL Historic Home - Pool & Hot Tub - SLEEPS 20! - House - Austin",
+			"property_id": 21817154,
+			"rank": 12,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "01 Luxury Townhome Walk ATX★Museums★Bars★Eateries - Townhouse - Austin",
+			"property_id": 21610440,
+			"rank": 13,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "35-Luxury University Park 2bd-2ba Prof. Managed - Apartment - Austin",
+			"property_id": 20303247,
+			"rank": 14,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Funky Bungalow - Walkable Location - Sleeps 14! - House - Austin",
+			"property_id": 21817594,
+			"rank": 15,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Travis Heights, Spacious Living in SOCO - House - Austin",
+			"property_id": 669923,
+			"rank": 16,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "FOREST HOME- Luxury, Relax and Convenient. - In-law - Round Rock",
+			"property_id": 21764776,
+			"rank": 17,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:45.000Z",
+			"name": "Remarkably Beautiful Spot on Hip East Side! (P4) - House - Austin",
+			"property_id": 17875043,
+			"rank": 18,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Thrifty & functional studio near AUS & downtown - undefined - Austin",
+			"property_id": 20095230,
+			"rank": 19,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Backyard Treehouse - DOWNTOWN! - undefined - Austin",
+			"property_id": 18489409,
+			"rank": 20,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "private indulgence near downtown - undefined - Austin",
+			"property_id": 7351170,
+			"rank": 21,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Pease and Love - 2 minutes from downtown - undefined - Austin",
+			"property_id": 20650242,
+			"rank": 22,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "3BR Tarrytown Townhome w/Parking - undefined - Austin",
+			"property_id": 20321938,
+			"rank": 23,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Cute South Austin home with Great Vibes! - undefined - Austin",
+			"property_id": 20077094,
+			"rank": 24,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Stylish Suite w Charm in Historic Central Austin - undefined - Austin",
+			"property_id": 18470697,
+			"rank": 25,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Modern Bungalow in Hip East Austin! (WFH) - undefined - Austin",
+			"property_id": 11545557,
+			"rank": 26,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "SXSW Dream Vacation Home - Fully Restored 1912 Mansion - undefined - Austin",
+			"property_id": 21322132,
+			"rank": 27,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Hip Remodeled Airstream Trailer - close to DT - undefined - Austin",
+			"property_id": 13465393,
+			"rank": 28,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Walk Downtown! Mod Home w/ 2nd Unit Upgrade Option - undefined - Austin",
+			"property_id": 980424,
+			"rank": 29,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "78704: Hip 1/1 South Lamar - South Central Austin - undefined - Austin",
+			"property_id": 20267588,
+			"rank": 30,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Contemporary & Chic in Austin Hill Country - undefined - Austin",
+			"property_id": 20306074,
+			"rank": 31,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "DOWNTOWN AUSTIN HAVEN-Sleep 6-ACL,SXSW,Shops,Food - undefined - Austin",
+			"property_id": 14163952,
+			"rank": 32,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Updated 3BR on Lake Travis - undefined - Austin",
+			"property_id": 20545168,
+			"rank": 33,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Modern, Minimal, Chill Airstream in East Austin - undefined - Austin",
+			"property_id": 17016200,
+			"rank": 34,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Comfy Vintage Convenient Downtown Burnet District - undefined - Austin",
+			"property_id": 16067264,
+			"rank": 35,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:48.000Z",
+			"name": "Modern Cottage w/ Private Patio- Great location! - undefined - Austin",
+			"property_id": 17209248,
+			"rank": 36,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Modern SoCo Studio Minutes from Zilker/Downtown - undefined - Austin",
+			"property_id": 21216291,
+			"rank": 37,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "NEW + East Austin + Abode + Sleeps 14 - undefined - Austin",
+			"property_id": 21203926,
+			"rank": 38,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "6BR/5BA Downtown Luxury Retreat - Newly Redecorated! - undefined - Austin",
+			"property_id": 19840017,
+			"rank": 39,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Austin Treehouse! Walk to Everything! - undefined - Austin",
+			"property_id": 10839673,
+			"rank": 40,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "3 BR Barcelona Modern Off S 1st - undefined - Austin",
+			"property_id": 4545175,
+			"rank": 41,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Peaceful Oasis with Pool - undefined - Round Rock",
+			"property_id": 15254330,
+			"rank": 42,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Bright 2br/2ba | Alamo Drafthouse | Gym/Pool - undefined - Austin ",
+			"property_id": 16452837,
+			"rank": 43,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Downtown Single Malt Manor!! - undefined - Austin",
+			"property_id": 1428582,
+			"rank": 44,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Chic South Congress Flat - undefined - Austin",
+			"property_id": 20478557,
+			"rank": 45,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Lofted, modern cottage east cent 02 - undefined - Austin",
+			"property_id": 1935282,
+			"rank": 46,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Modern Elegance - Perfect for SXSW! - undefined - Austin",
+			"property_id": 18489403,
+			"rank": 47,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "11 Beds (3 Queens| 2 Kings | 6 Twins), 5 Bedroom, 2 Bath, NEW Modern Downtown Hm - undefined - Austin",
+			"property_id": 21383009,
+			"rank": 48,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Backyard Tiny House 12 minutes from downtown - undefined - Austin",
+			"property_id": 16633368,
+			"rank": 49,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Cozy Corner Central Burnet Corridor - undefined - Austin",
+			"property_id": 17937533,
+			"rank": 50,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Perfect Group Space! Modern 4BR in DWTN Austin! - undefined - Austin",
+			"property_id": 20119314,
+			"rank": 51,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Eastside Vintage - Perfect for SXSW!! - undefined - Austin",
+			"property_id": 17928404,
+			"rank": 52,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "Thrifty & functional studio near AUS & downtown - undefined - Austin",
+			"property_id": 20095230,
+			"rank": 53,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:50.000Z",
+			"name": "1920's East Austin Cottage - undefined - Austin",
+			"property_id": 2292322,
+			"rank": 54,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Chic East Side House - undefined - Austin",
+			"property_id": 8644874,
+			"rank": 55,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "3 BR Barcelona Modern Off S 1st - undefined - Austin",
+			"property_id": 4545175,
+			"rank": 56,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Willowrun Unit A - 1/1 near S. Congress - Sleeps 4 - undefined - Austin",
+			"property_id": 4125995,
+			"rank": 57,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Aloha Austin Studio w/ Pool, Hot Tub & Waterfall - undefined - Austin",
+			"property_id": 16881707,
+			"rank": 58,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Stay on 6th Street - Walk to Convention Center - undefined - Austin",
+			"property_id": 15886011,
+			"rank": 59,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "New Luxury Apartment on the Lake - undefined - Austin",
+			"property_id": 22733085,
+			"rank": 60,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "2 bdr/2 bath Modern Luxury Apartment Downtown - undefined - Austin",
+			"property_id": 22398187,
+			"rank": 61,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Modern Cottage w/ Private Patio- Great location! - undefined - Austin",
+			"property_id": 17209248,
+			"rank": 62,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Modern Hyde Park Studio - undefined - Austin",
+			"property_id": 15485824,
+			"rank": 63,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Backyard Land Yacht in Cherrywood - undefined - Austin",
+			"property_id": 7462609,
+			"rank": 64,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Spanish Castle Magic - 10 minutes to Downtown! - undefined - Austin",
+			"property_id": 20861553,
+			"rank": 65,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "01 Luxury Townhome Walk ATX★Museums★Bars★Eateries - undefined - Austin",
+			"property_id": 21610440,
+			"rank": 66,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Remarkably Beautiful Spot on Hip East Side! (P4) - undefined - Austin",
+			"property_id": 17875043,
+			"rank": 67,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "The Lost Creek - undefined - Austin",
+			"property_id": 19828435,
+			"rank": 68,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "2BR/ 2BA Ultra Modern East-Sider! - undefined - Austin",
+			"property_id": 21502760,
+			"rank": 69,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Eastside Container - Near Train, Downtown & UT - undefined - Austin",
+			"property_id": 21026388,
+			"rank": 70,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "Tiny House 814 at the MLF Community First Village - undefined - Austin",
+			"property_id": 17625957,
+			"rank": 71,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:52.000Z",
+			"name": "The Texas Hideout 3bdr Riverside Suite +POOL/GYM 4 - undefined - Austin",
+			"property_id": 21830389,
+			"rank": 72,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Caviar Dreams - 2 minutes from downtown!! - undefined - Austin",
+			"property_id": 21677675,
+			"rank": 73,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Garage Studio in East Austin - undefined - Austin",
+			"property_id": 22176247,
+			"rank": 74,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Heart of East Austin Walk Downtown - undefined - Austin",
+			"property_id": 16225537,
+			"rank": 75,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Stunningly Luxurious Spot on Hip East Side! (P3) - undefined - Austin",
+			"property_id": 17874726,
+			"rank": 76,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Casita blocks from DT, E 6th, Town Lake, Rainey St - undefined - Austin",
+			"property_id": 5126932,
+			"rank": 77,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "5 blocks to East 6th! Walk Downtown! - undefined - Austin",
+			"property_id": 2665394,
+			"rank": 78,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "SoCo Splendid Oasis - undefined - Austin",
+			"property_id": 15207953,
+			"rank": 79,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "South Congress Bamboo Garden House - undefined - Austin",
+			"property_id": 11530645,
+			"rank": 80,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Downtown Single Malt Manor!! - undefined - Austin",
+			"property_id": 1428582,
+			"rank": 81,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Howdy, in Hip South Lamar - South Central Austin - undefined - Austin",
+			"property_id": 20267177,
+			"rank": 82,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "East Downtown Private Guest House - undefined - Austin",
+			"property_id": 22479934,
+			"rank": 83,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "4BR/4BA Luxury Austin Villa w/Pool - Near Downtown - undefined - Austin",
+			"property_id": 19840109,
+			"rank": 84,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Cozy Value Space w/ Pool - 2 Bath - Only Min to DT - undefined - Austin",
+			"property_id": 22493131,
+			"rank": 85,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Spanish Castle Magic - 10 minutes to Downtown! - undefined - Austin",
+			"property_id": 20861553,
+			"rank": 86,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Charming 3BR w/ Balcony & Fire Pit - undefined - Austin",
+			"property_id": 21315415,
+			"rank": 87,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Light and Airy Lakeside Loft - undefined - Austin",
+			"property_id": 10644981,
+			"rank": 88,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "Eastside Vintage - Perfect for SXSW!! - undefined - Austin",
+			"property_id": 17928404,
+			"rank": 89,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:54.000Z",
+			"name": "01 Luxury Townhome Walk ATX★Museums★Bars★Eateries - undefined - Austin",
+			"property_id": 21610440,
+			"rank": 90,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Business & Group friendly. Select avails: Jan-Mar - undefined - Austin",
+			"property_id": 7634454,
+			"rank": 91,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Downtown Single Malt Manor!! - undefined - Austin",
+			"property_id": 1428582,
+			"rank": 92,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Garage Studio in East Austin - undefined - Austin",
+			"property_id": 22176247,
+			"rank": 93,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Unique Garden Oasis Home in East Austin - undefined - Austin",
+			"property_id": 20760311,
+			"rank": 94,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Cozy Industrial 3bd 2ba Riverside Condo POOL/GYM 5 - undefined - Austin",
+			"property_id": 17210935,
+			"rank": 95,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Best Location in Austin! Charming 3 BR house! - undefined - Austin",
+			"property_id": 11119466,
+			"rank": 96,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Spanish Castle Magic - 10 minutes to Downtown! - undefined - Austin",
+			"property_id": 20861553,
+			"rank": 97,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Modern SoCo Townhome - undefined - Austin",
+			"property_id": 19379182,
+			"rank": 98,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "3 BR Barcelona Modern Off S 1st - undefined - Austin",
+			"property_id": 4545175,
+			"rank": 99,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "01 Walk to UT, eateries, bars, museums ★ 3Bdroom - undefined - Austin",
+			"property_id": 20121607,
+			"rank": 100,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Remarkably Beautiful Spot on Hip East Side! (P4) - undefined - Austin",
+			"property_id": 17875043,
+			"rank": 101,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Light and Airy Lakeside Loft - undefined - Austin",
+			"property_id": 10644981,
+			"rank": 102,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Eastside Vintage - Perfect for SXSW!! - undefined - Austin",
+			"property_id": 17928404,
+			"rank": 103,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Stay on 6th ST - 0.35 Miles to Convention Center - undefined - Austin",
+			"property_id": 18594935,
+			"rank": 104,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Blue Aggie - Tiny House at Community First Village - undefined - Austin",
+			"property_id": 18793629,
+			"rank": 105,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Apt. Close to Downtown! 1BR/1BA sleeps 3 (2114) - undefined - Austin",
+			"property_id": 18672014,
+			"rank": 106,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "Fabulous Central Austin Condo! - undefined - Austin",
+			"property_id": 13571814,
+			"rank": 107,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:57.000Z",
+			"name": "2BR/ 2BA Ultra Modern East-Sider! - undefined - Austin",
+			"property_id": 21502760,
+			"rank": 108,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "06 Central ATX Private 3BRTownhome ★ Walkable ★ - undefined - Austin",
+			"property_id": 20120510,
+			"rank": 109,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Tiny House 815 at MLF Community First Village - undefined - Austin",
+			"property_id": 17620198,
+			"rank": 110,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Modern & Brand New 2/2 House w Bikes! - undefined - Austin",
+			"property_id": 18239011,
+			"rank": 111,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "South 1st Launch Pad - undefined - Austin",
+			"property_id": 18489407,
+			"rank": 112,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "WALKABLE AUSTIN-Sleep 6,shop/food/coffee/ACL,SWSX - undefined - Austin",
+			"property_id": 14167595,
+			"rank": 113,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "2BR Modern Zilker Duplex - Unit A - undefined - Austin",
+			"property_id": 16701118,
+			"rank": 114,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "2 bdr/2 bath Modern Luxury Apartment Downtown - undefined - Austin",
+			"property_id": 22398187,
+			"rank": 115,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Walk Downtown! Mod Home w/ 2nd Unit Upgrade Option - undefined - Austin",
+			"property_id": 980424,
+			"rank": 116,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Eclectic escape - undefined - Austin",
+			"property_id": 17420088,
+			"rank": 117,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "High-end Guest Suite: Pool+Hot Tub+Kitchenette! - undefined - Austin",
+			"property_id": 17282283,
+			"rank": 118,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Stay on 6th ST - 0.35 Miles to Convention Center - undefined - Austin",
+			"property_id": 18594935,
+			"rank": 119,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Guest Queen Room Attached Bath with Private Access - undefined - Austin",
+			"property_id": 21152895,
+			"rank": 120,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "2BR Luxury Living in Austin's Hottest Neighborhood - undefined - Austin",
+			"property_id": 22033531,
+			"rank": 121,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Cozy Value Space w/ Pool - 2 Bath - 7 Min to DT - undefined - Austin",
+			"property_id": 19985475,
+			"rank": 122,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Beautiful house 12 minutes from downtown - undefined - Austin",
+			"property_id": 14282701,
+			"rank": 123,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Tiny House 811 at MLF Community First Village - undefined - Austin",
+			"property_id": 17623664,
+			"rank": 124,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Modern Hyde Park Studio - undefined - Austin",
+			"property_id": 15485824,
+			"rank": 125,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:40:59.000Z",
+			"name": "Casa Verde - undefined - Austin",
+			"property_id": 21471339,
+			"rank": 126,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "2 Bedroom Studio Home in East Austin by Downtown - undefined - Austin",
+			"property_id": 9234951,
+			"rank": 127,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Charming Austin 2BD1BA-Sleep 8- SXSW,ACL-Bar,Shop - undefined - Austin",
+			"property_id": 5524697,
+			"rank": 128,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Brand New Everything for 6 Next to Downtown! (L2) - undefined - Austin",
+			"property_id": 18729560,
+			"rank": 129,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "01 Luxury Townhome Walk ATX★Museums★Bars★Eateries - undefined - Austin",
+			"property_id": 21610440,
+			"rank": 130,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Stunning Austin SoCo 2/1: Highlands of Willowrun - undefined - Austin",
+			"property_id": 14820133,
+			"rank": 131,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Cute Tiny Home with Loft and Deck in East Austin - undefined - Austin",
+			"property_id": 17016326,
+			"rank": 132,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "3BD NW Howdy Hotel - undefined - Austin",
+			"property_id": 7811193,
+			"rank": 133,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Heart of Austin! Walk to ACL/SXSW/Barton Springs! - undefined - Austin",
+			"property_id": 1160212,
+			"rank": 134,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Quaint New Studio in Central Austin - undefined - Austin",
+			"property_id": 21095942,
+			"rank": 135,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "SPACIOUS FLAT| 5 MIN FROM DOWNTOWN & UT CAMPUS| - undefined - Austin",
+			"property_id": 20871937,
+			"rank": 136,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Sweet South Austin Bungalow in Bouldin Creek - undefined - Austin",
+			"property_id": 21231281,
+			"rank": 137,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Most Relaxing Space in Downtown Austin! (C4) - undefined - Austin",
+			"property_id": 19138361,
+			"rank": 138,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Picturesque Point - undefined - Austin",
+			"property_id": 19962072,
+			"rank": 139,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Modern First Floor Two Bedroom Steps from East 6th - undefined - Austin",
+			"property_id": 21381641,
+			"rank": 140,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Spacious Austin Retreat - Sleep Everyone! - undefined - Austin",
+			"property_id": 22064643,
+			"rank": 141,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Country-like setting! Short drive to downtown! - undefined - Austin",
+			"property_id": 15095434,
+			"rank": 142,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Cozy Greenbelt Hideaway - undefined - Austin",
+			"property_id": 11618910,
+			"rank": 143,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:01.000Z",
+			"name": "Rustic Modern 2bd 2ba Riverside Condo + POOL/GYM 3 - undefined - Austin",
+			"property_id": 17256962,
+			"rank": 144,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Private Room in Central East Austin - undefined - Austin",
+			"property_id": 14198986,
+			"rank": 145,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Eclectic 2br/2ba | Alamo Drafthouse | Gym/Pool - undefined - Austin",
+			"property_id": 16454120,
+			"rank": 146,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "South 1st Launch Pad - undefined - Austin",
+			"property_id": 18489407,
+			"rank": 147,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Clarksville Elegance - downtown!! - undefined - Austin",
+			"property_id": 18492955,
+			"rank": 148,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Modern Heaven 2 bd 2 ba Riverside Pad +POOL/GYM 7 - undefined - Austin",
+			"property_id": 17256967,
+			"rank": 149,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "(So) La La fresh bright apartment in South Lamar. - undefined - Austin",
+			"property_id": 22513021,
+			"rank": 150,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Chic downtown 6th St. Condo - undefined - Austin",
+			"property_id": 5521345,
+			"rank": 151,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Rainey St Luxury Studio King Bed + Convention Cntr - undefined - Austin",
+			"property_id": 21770302,
+			"rank": 152,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Cool studio in groovy central Austin - undefined - Austin",
+			"property_id": 4235416,
+			"rank": 153,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Austin Boutique Hotel Styled II - undefined - Austin",
+			"property_id": 9157222,
+			"rank": 154,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Quirky and Quaint Eastside Home - undefined - Austin",
+			"property_id": 21384381,
+			"rank": 155,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Upscale 1bd|1ba Downtown Highrise Pool Gym Balcony - undefined - Austin",
+			"property_id": 16451796,
+			"rank": 156,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Eclectic escape - undefined - Austin",
+			"property_id": 17420088,
+			"rank": 157,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Indulge your Empire State of Mind with Brilliant City Views - undefined - Austin",
+			"property_id": 18266090,
+			"rank": 158,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Inexpensive Respite in Amazing City - undefined - Austin",
+			"property_id": 14124451,
+			"rank": 159,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Chicken Coop Cottage - undefined - Austin",
+			"property_id": 4227044,
+			"rank": 160,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "North central condo, close to everything - undefined - Austin",
+			"property_id": 21268743,
+			"rank": 161,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:04.000Z",
+			"name": "Lakefront Volente Home & Guesthouse - undefined - Volente",
+			"property_id": 20185128,
+			"rank": 162,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "The Austin Getaway - Spacious and Comfortable! - undefined - Austin",
+			"property_id": 22068178,
+			"rank": 163,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Downtown-Walk to SXSW! | Parking | Pool | Rooftop - undefined - Austin",
+			"property_id": 4186158,
+			"rank": 164,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Perfect Group Space! Modern 4BR in DWTN Austin! - undefined - Austin",
+			"property_id": 20119314,
+			"rank": 165,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Perfect SXSW Location - Stay in the Heart of East Austin - Ultra Walkable- SLEEPS 16! - undefined - Austin",
+			"property_id": 21816735,
+			"rank": 166,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Music Lovers' Haven! Walk to E. 6th - undefined - Austin",
+			"property_id": 20322201,
+			"rank": 167,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "3BR/2BA Walk to Barton Springs Road - undefined - Austin",
+			"property_id": 20322185,
+			"rank": 168,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Modern Spartan Mansion Guesthouse - undefined - Austin",
+			"property_id": 5083004,
+			"rank": 169,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "East Austin Room 2 (Home & Recording Studio) - undefined - Austin",
+			"property_id": 20231248,
+			"rank": 170,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Quiet, charming South Austin studio - undefined - Austin",
+			"property_id": 17177301,
+			"rank": 171,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Beautiful Brand New Home-5 Min to Downtown Austin - undefined - Austin",
+			"property_id": 21249347,
+			"rank": 172,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Quiet South Austin home with pool - undefined - Austin",
+			"property_id": 19923140,
+			"rank": 173,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "East Austin Oasis - Perfect for Groups! - undefined - Austin",
+			"property_id": 22020097,
+			"rank": 174,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Willowrun Unit A - 1/1 near S. Congress - Sleeps 4 - undefined - Austin",
+			"property_id": 4125995,
+			"rank": 175,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "★Modern,CozyCouple's Getaway w/Relaxing Patio! - undefined - Austin",
+			"property_id": 17160578,
+			"rank": 176,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Awesome Cabin Like Home In Hip East Austin (WB) - undefined - Austin",
+			"property_id": 15970440,
+			"rank": 177,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Beautiful House bright space, with POOL!Sleeps 13 - undefined - Austin",
+			"property_id": 16646919,
+			"rank": 178,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Cozy Studio near UT/Downtown - undefined - Austin",
+			"property_id": 5386336,
+			"rank": 179,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:06.000Z",
+			"name": "Bright 4BR Loft by UT - Large Groups Welcomed! - undefined - Austin",
+			"property_id": 20092774,
+			"rank": 180,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Charming Little House for 6 Near Downtown! (L4) - undefined - Austin",
+			"property_id": 19658084,
+			"rank": 181,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "3BR Colorful SoFi House - undefined - Austin",
+			"property_id": 20322218,
+			"rank": 182,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "10 Luxury, Walkable Townhome★Restaurants/Bars/UT - undefined - Austin",
+			"property_id": 20120856,
+			"rank": 183,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "★6 BR★Perfect for Bachelor(ette) party & families! - undefined - Austin",
+			"property_id": 17358165,
+			"rank": 184,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "The Little Pink House--TRUE AUSTIN FLAIR - undefined - Austin",
+			"property_id": 21205028,
+			"rank": 185,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Cozy Value Space w/ Pool - 2 Bath - Minutes to DT - undefined - Austin",
+			"property_id": 2028500,
+			"rank": 186,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "3BR w/ Private Pool & Large Deck - undefined - Austin",
+			"property_id": 20656853,
+			"rank": 187,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Loft;sleeps 4;FREE PARKING,TUBES,8MIN. TO DT&SOCO - undefined - Austin",
+			"property_id": 5372075,
+			"rank": 188,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Zilker Barn - (4/2) Walk from Here! - undefined - Austin",
+			"property_id": 1236371,
+			"rank": 189,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Private Blue Room in Spacious North Austin Home - undefined - Austin",
+			"property_id": 16032760,
+			"rank": 190,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "04 Luxury Townhome ★ Walk Austin! - undefined - Austin",
+			"property_id": 20151013,
+			"rank": 191,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Brand New Everything for 6 Next to Downtown! (L2) - undefined - Austin",
+			"property_id": 18729560,
+			"rank": 192,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "The Neat and Cozy Austin Retreat - Walk Downtown! - undefined - Austin",
+			"property_id": 20252979,
+			"rank": 193,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Contemporary East Austin Smart Home - undefined - Austin",
+			"property_id": 21934497,
+			"rank": 194,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Location Location .. Downtown Central Amazing .. - undefined - Austin",
+			"property_id": 21950186,
+			"rank": 195,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Cute FarmHouse in Oak Hill, ATX - undefined - Austin",
+			"property_id": 21108804,
+			"rank": 196,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Darling Downtown Waterfront Studio - undefined - Austin",
+			"property_id": 14300497,
+			"rank": 197,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:08.000Z",
+			"name": "Peaceful Room - Riverside & near downtown - undefined - Austin",
+			"property_id": 17650728,
+			"rank": 198,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Upscale 1bd|1ba Downtown Highrise Pool Gym Balcony - undefined - Austin",
+			"property_id": 16451796,
+			"rank": 199,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Entire 3BR Modern Home + Location - undefined - Austin",
+			"property_id": 12704668,
+			"rank": 200,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Modern Gem - Walk to Downtown & Rainey St.! - undefined - Austin",
+			"property_id": 20189342,
+			"rank": 201,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Modern & Brand New 2/2 House w Bikes! - undefined - Austin",
+			"property_id": 18239011,
+			"rank": 202,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Thrifty & functional studio near airport/ downtown - undefined - Austin",
+			"property_id": 22163664,
+			"rank": 203,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Cool studio in groovy central Austin - undefined - Austin",
+			"property_id": 4235416,
+			"rank": 204,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Chicken Coop Cottage - undefined - Austin",
+			"property_id": 4227044,
+			"rank": 205,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Indulge your Empire State of Mind with Brilliant City Views - undefined - Austin",
+			"property_id": 18266090,
+			"rank": 206,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Quirky and Quaint Eastside Home - undefined - Austin",
+			"property_id": 21384381,
+			"rank": 207,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "2BR Modern Zilker Duplex - Unit A - undefined - Austin",
+			"property_id": 16701118,
+			"rank": 208,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "2 bdr/2 bath Modern Luxury Apartment Downtown - undefined - Austin",
+			"property_id": 22398187,
+			"rank": 209,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Modern Heaven 2 bd 2 ba Riverside Pad +POOL/GYM 7 - undefined - Austin",
+			"property_id": 17256967,
+			"rank": 210,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Right in the middle of it - undefined - Austin",
+			"property_id": 17209015,
+			"rank": 211,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Master Suite (it's pretty sweet!) - undefined - Austin",
+			"property_id": 5455707,
+			"rank": 212,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "2BR Luxury Living in Austin's Hottest Neighborhood - undefined - Austin",
+			"property_id": 22033531,
+			"rank": 213,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Private cottage-up to 5-6-SoCo/SoFi - undefined - Austin",
+			"property_id": 8355807,
+			"rank": 214,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "A Place to Feel at Home!! - undefined - Austin",
+			"property_id": 18266054,
+			"rank": 215,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:10.000Z",
+			"name": "Zilker Gold - Hip, Spacious, Modern - undefined - Austin",
+			"property_id": 11740621,
+			"rank": 216,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Eastside Guest Studio near Lake - undefined - Austin",
+			"property_id": 1880094,
+			"rank": 217,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Best Location in Austin! Charming 3 BR house! - undefined - Austin",
+			"property_id": 11119466,
+			"rank": 218,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Xeriscape Bungalow in Hip E. Austin - undefined - Austin",
+			"property_id": 2702956,
+			"rank": 219,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Striking 2br/2ba | Alamo Drafthouse | Gym/Pool - undefined - Austin",
+			"property_id": 16452635,
+			"rank": 220,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Phenomenal Views 1bd|1ba Pool Gym 19th Floor - undefined - Austin",
+			"property_id": 18914680,
+			"rank": 221,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Private Luxury Bedroom - undefined - Austin",
+			"property_id": 22063005,
+			"rank": 222,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Hidden Oasis- close to Downtown - undefined - Austin",
+			"property_id": 10825723,
+			"rank": 223,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Hyde Park Tree House - undefined - Austin",
+			"property_id": 19383425,
+			"rank": 224,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Awesome Private Room Right Near Downtown Austin!! - undefined - Austin",
+			"property_id": 20654319,
+			"rank": 225,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Sparrow House - Cheery Bungalow! - undefined - Austin",
+			"property_id": 668239,
+			"rank": 226,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Hill Country Getaway - Luxurious Master Suite - undefined - Austin",
+			"property_id": 5558324,
+			"rank": 227,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Stay btwn Lake Austin & Downtown - undefined - Austin",
+			"property_id": 3349126,
+			"rank": 228,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Upscale Downtown @ Eastside Lodge, #1 in Austin* - undefined - Austin",
+			"property_id": 11144738,
+			"rank": 229,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Centrally located 3 BD, 2 Bath - undefined - Austin",
+			"property_id": 15411713,
+			"rank": 230,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Most Cozy Space for 8 in Downtown Austin! (C3) - undefined - Austin",
+			"property_id": 19137923,
+			"rank": 231,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Private Double bedroom comfy and convenient - undefined - Austin",
+			"property_id": 22303026,
+			"rank": 232,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Picturesque Point - undefined - Austin",
+			"property_id": 19962072,
+			"rank": 233,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:13.000Z",
+			"name": "Downtown Austin! Penthouse Condo by One Fine Flat - undefined - Austin",
+			"property_id": 8968150,
+			"rank": 234,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "2BR/2BA Boutique SoLa House - undefined - Austin",
+			"property_id": 20322223,
+			"rank": 235,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Willowrun Unit D - 2/1 near S. Congress - Sleeps 5 - undefined - Austin",
+			"property_id": 14086164,
+			"rank": 236,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Lux 2BR w/Infinity Pool, Rf Bar-by 2nd St Dstrct! - undefined - Austin",
+			"property_id": 20120927,
+			"rank": 237,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Stylish South Lamar Condo 78704! - undefined - Austin",
+			"property_id": 8480556,
+			"rank": 238,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "East Austin Hip New Studio Walkable To Downtown - undefined - Austin",
+			"property_id": 19208312,
+			"rank": 239,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Cozy Studio near Barton Springs, DT - undefined - Austin",
+			"property_id": 2006522,
+			"rank": 240,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Downtown Bungalow w/ FREE Bikes! Open for SXSW! - undefined - Austin",
+			"property_id": 12538954,
+			"rank": 241,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Private Entrance in SW Austin, Pool and Hot Tub - undefined - Austin",
+			"property_id": 20873238,
+			"rank": 242,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "GOVERNORS MANSION  DownTown Austin - undefined - Austin",
+			"property_id": 13298454,
+			"rank": 243,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Heart of Austin! Walk to ACL/SXSW/Barton Springs! - undefined - Austin",
+			"property_id": 1160212,
+			"rank": 244,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "HEART OF AUSTIN - 6th Street Home - undefined - Austin",
+			"property_id": 1283113,
+			"rank": 245,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Large modern SOCO studio apartment - undefined - Austin",
+			"property_id": 6932061,
+			"rank": 246,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Luxury Downtown Hideout on the River w Pool+Gym - undefined - Austin",
+			"property_id": 22180891,
+			"rank": 247,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Cozy home near 6th, Rainey, Zilker, ACL, SXSW - undefined - Austin",
+			"property_id": 21121560,
+			"rank": 248,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Bouldin Charm - 10 minutes to Downtown! - undefined - Austin",
+			"property_id": 19716198,
+			"rank": 249,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Casita blocks from DT, E 6th, Town Lake, Rainey St - undefined - Austin",
+			"property_id": 5126932,
+			"rank": 250,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "Walkable Cherrywood House close to UT and downtown - undefined - Austin",
+			"property_id": 16646609,
+			"rank": 251,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:15.000Z",
+			"name": "4 Bedrooms House - undefined - Austin",
+			"property_id": 18227140,
+			"rank": 252,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Welcome to Casa Garcia! - undefined - Austin",
+			"property_id": 11514631,
+			"rank": 253,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Freyjahaven Cottage - undefined - Austin",
+			"property_id": 8551206,
+			"rank": 254,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Private Double bedroom comfy and convenient - undefined - Austin",
+			"property_id": 22303026,
+			"rank": 255,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Perfect Loft Suitable for Family and Large Group - undefined - Austin",
+			"property_id": 22016941,
+			"rank": 256,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Stylish South Lamar Condo 78704! - undefined - Austin",
+			"property_id": 8480556,
+			"rank": 257,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Luxury Apartment on Rainey Street w/ PARKING - undefined - Austin",
+			"property_id": 16977499,
+			"rank": 258,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Cozy Studio Apartment Near The Domain - undefined - Austin",
+			"property_id": 18911218,
+			"rank": 259,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Save 15% for all April bookings! - undefined - Austin",
+			"property_id": 21192689,
+			"rank": 260,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Awesome Downtown - SOLO Traveler Room! - undefined - Austin",
+			"property_id": 21589826,
+			"rank": 261,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Incredible Two Home Space, Hip East Downtown (P34) - undefined - Austin",
+			"property_id": 17875199,
+			"rank": 262,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Top Floor Two Bedroom Steps from Sixth Street - undefined - Austin",
+			"property_id": 21295215,
+			"rank": 263,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Spacious/Private Room, quick drive to Downtown! - undefined - Austin",
+			"property_id": 16081112,
+			"rank": 264,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "4 Bedrooms House - undefined - Austin",
+			"property_id": 18227140,
+			"rank": 265,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Spacious Back House in Rosedale - undefined - Austin",
+			"property_id": 9902174,
+			"rank": 266,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Crestview Light Side/Dark Side - undefined - Austin",
+			"property_id": 19968557,
+			"rank": 267,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Cozy Private Bed+Bath with patio-4mi. to Downtown - undefined - Austin",
+			"property_id": 20212059,
+			"rank": 268,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "Luxury Downtown Hideout on the River w Pool+Gym - undefined - Austin",
+			"property_id": 22180891,
+			"rank": 269,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:17.000Z",
+			"name": "TRENDY Rental Central NE Austin - undefined - Austin",
+			"property_id": 4198303,
+			"rank": 270,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "East Austin Home; min fromDT - undefined - Austin",
+			"property_id": 6590801,
+			"rank": 271,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Chic downtown 6th St. Condo - undefined - Austin",
+			"property_id": 5521345,
+			"rank": 272,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "ACL, Safe, Clean, Quiet & Free Parking - undefined - Austin",
+			"property_id": 7456066,
+			"rank": 273,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Apt. Close to Downtown! 1BR/1BA sleeps 3 (2127) - undefined - Austin",
+			"property_id": 18841033,
+			"rank": 274,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Modern South Austin 2BR Loft Condo! - undefined - Austin",
+			"property_id": 8255065,
+			"rank": 275,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Fabulous Central Austin Condo! - undefined - Austin",
+			"property_id": 13571814,
+			"rank": 276,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Downtown 3b/3b modern home w/ yard & car! - undefined - Austin",
+			"property_id": 13046102,
+			"rank": 277,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "The Nest - undefined - Austin",
+			"property_id": 22832750,
+			"rank": 278,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Cool Artistic \"Treehouse\" Cabin - undefined - Austin",
+			"property_id": 10331035,
+			"rank": 279,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Brand New Two Bedroom in the Heart of Austin - undefined - Austin",
+			"property_id": 22812476,
+			"rank": 280,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Charming Rustic Modern South Austin Home - undefined - Austin",
+			"property_id": 22107480,
+			"rank": 281,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "The Argyle Suite/Loft on 4th Street - undefined - Austin",
+			"property_id": 1570491,
+			"rank": 282,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Velvet Underground - undefined - Austin",
+			"property_id": 21215151,
+			"rank": 283,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Austin Private Patio Convenient Downtown - Burnet - undefined - Austin",
+			"property_id": 16067140,
+			"rank": 284,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Cozy Studio in Private Garden - North Loop - undefined - Austin",
+			"property_id": 15706510,
+			"rank": 285,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Big bright room in leafy oasis - undefined - Austin",
+			"property_id": 7690676,
+			"rank": 286,
+			"superhost": true
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Happy Camper - 1 mile to downtown - undefined - Austin",
+			"property_id": 2867059,
+			"rank": 287,
+			"superhost": false
+		},
+		{
+			"created_at": "2018-01-24T18:41:19.000Z",
+			"name": "Loft on 6th St. B5 - undefined - Austin",
+			"property_id": 7825977,
+			"rank": 288,
+			"superhost": false
+		}
+	]
+}
