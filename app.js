@@ -3,7 +3,7 @@ const debug = require('debug')('airbnb_scraper')
 const propertyDataService = require('./src/propertyDataService.js')
 const cron = require('node-cron')
 
-const cronJob = cron.schedule('* * * * *', () => {
+const cronJob = cron.schedule('30 5 * * *', () => {
   initialize()
     .then(() => {
       return propertyDataService.create()
